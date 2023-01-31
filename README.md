@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to design a web
 - 📫 How to reach me: marcoblaleb@gmail.com
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: I don´t like low effort stuff
+- ⚡ Fun fact: Benito Pocino is the only actor that have participate both in the original version of a movie and its porn parody. 
 
