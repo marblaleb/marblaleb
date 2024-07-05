@@ -1,9 +1,11 @@
-### Hi there 👋, I´m Marco Blanco.
+Hi there 👋, I´m Marco Blanco, a Junior Full-stack web developer with previous training in Communication Studies and Philosophy. Passionate about web developing, digital aesthetics, cybersecurity, and machine learning. Inquisitive personality, always willing to learn and explore new territories, ensuring the best user experience, and driving projects from concept to completion with precision and creativity. 
 
 
-- 🔭 I’m currently working on Web Dev
-- 🌱 I’m currently learning Python, Javascript, Java, Linux.
-- 🤔 I’m looking for help with new web dev skills
-- 📫 How to reach me: marcoblaleb@gmail.com
+Programming languages: HTML5, CSS, Java, C#
+Scripting languages: JavaScript, Python
+Frameworks: .NET, Spring, Angular
+Team management
+Web services: REST, JSON
+Cloud services: Azzure, AWS
 
 
