@@ -2,10 +2,13 @@ Hi there 👋, I´m Marco Blanco, a Junior Full-stack web developer with previou
 
 
 Programming languages: HTML5, CSS, Java, C#
+
 Scripting languages: JavaScript, Python
+
 Frameworks: .NET, Spring, Angular
-Team management
+
 Web services: REST, JSON
+
 Cloud services: Azzure, AWS
 
 
