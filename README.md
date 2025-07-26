@@ -4,7 +4,7 @@ Hi there 👋, I´m Marco Blanco, a Junior Full-stack web developer with previou
 
 ⚙️ Frameworks: .NET, Spring, Angular
 
-🛒 Web services: REST, JSON
+🛒 Web services: REST, SOAP, JSON
 
 ☁️ Cloud services: Azure, AWS
 
